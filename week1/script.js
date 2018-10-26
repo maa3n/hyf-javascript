@@ -142,7 +142,7 @@ let y = 6/0
 let z = 10/0
 
 if (y===z) {
-  console.log('true Y and Z has the Same Value')
+  console.log('true Y and Z have the Same Value')
 } else {
-  console.log('false Y and Z has the Same Value')
+  console.log('false Y and Z have a different Value')
 }
